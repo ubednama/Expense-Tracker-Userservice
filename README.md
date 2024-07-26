@@ -9,8 +9,9 @@ The User Service manages user data and profiles for the Expense Tracker applicat
 - **Language**: Java 21
 - **Framework**: Spring Boot
 
-  # Other Services
-  - **Data Science Service**: Provides a language model API for reading messages and extracting data.</br>
+
+# Other Services
+- **Data Science Service**: Provides a language model API for reading messages and extracting data.</br>
 [Data Science Service Repository](https://github.com/ubednama/Expense-Tracker-DSService)
 
 - **AuthService**: Handles authentication.</br>
